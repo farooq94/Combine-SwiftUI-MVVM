@@ -59,6 +59,7 @@
 				8660AA0A23CBEFB600040C75 /* DynamicList-SwiftUI-Combine */,
 				8660AA4223CBFD6900040C75 /* Preview */,
 				8660AA0923CBEFB600040C75 /* Products */,
+				8660AA4323CBFD8600040C75 /* darkmode.gif */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,7 +127,6 @@
 		8660AA4223CBFD6900040C75 /* Preview */ = {
 			isa = PBXGroup;
 			children = (
-				8660AA4323CBFD8600040C75 /* darkmode.gif */,
 			);
 			path = Preview;
 			sourceTree = "<group>";
